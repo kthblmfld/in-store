@@ -40,6 +40,7 @@ var app = {
         receivedElement.setAttribute('style', 'display:block;');
 
         console.log('Received Event: ' + id);
+        console.log('This app is ready to rock');
     }
 };
 
