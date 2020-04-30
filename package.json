@@ -19,7 +19,7 @@
     "cordova-ios": "^5.1.1",
     "cordova-osx": "^5.0.0",
     "express": "^4.17.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "livereload": "^0.9.1",
     "popper": "^1.0.1"
   },
